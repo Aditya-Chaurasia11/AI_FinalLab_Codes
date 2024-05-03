@@ -1,1 +1,2 @@
-AI Labs (CS362)
+All AI lab code 
+group name - IEGNY
