@@ -1,2 +1,2 @@
-All AI lab code 
-group name - IEGNY
+All AI lab code of 
+group - IEGNY
